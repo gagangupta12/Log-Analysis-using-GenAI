@@ -59,3 +59,20 @@ or any other code editor
      ```
      ollama ls
      ```
+   - Check if ollama is running
+     ```
+     ollama serve
+     ```
+     go to localhost:11434 and you should see
+     ollama is running
+
+     ![image](https://github.com/user-attachments/assets/842761f0-8641-4ada-9aa0-32baac84500f)
+
+
+6. Start chromadb server
+
+   ```
+   chroma run --path db --port 8001
+   ```
+
+   ![image](https://github.com/user-attachments/assets/59da7a0b-aedb-4a54-9bc7-92032758e653)
