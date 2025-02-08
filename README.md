@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c67e04cd-2fcb-4f8a-b64c-6b895d394eaa)# Log-Analysis-using-GenAI
+## Log-Analysis-using-GenAI
 
 Developed an AI system that uses Generative AI to detect anomalies, extract insights, and summarize log data. Implemented data preprocessing, log parsing, and AI-driven pattern recognition to enhance monitoring and troubleshooting efficiency. Utilized technologies like Python, NLP, LLM (LLaMA), ChromaDb, Streamlit, LangChain(Framework) for scalable log processing.
 
