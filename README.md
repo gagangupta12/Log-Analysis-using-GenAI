@@ -71,8 +71,20 @@ or any other code editor
 
 6. Start chromadb server
 
+   go to backend directory
+   ```
+   cd backend
+
+   ```
+   create db folder for storing Chromadb files
+   ```
+   mkdir db
+   ```
+   Start Chromadb server:
    ```
    chroma run --path db --port 8001
    ```
 
    ![image](https://github.com/user-attachments/assets/59da7a0b-aedb-4a54-9bc7-92032758e653)
+
+
