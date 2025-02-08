@@ -71,15 +71,17 @@ or any other code editor
 
 6. **Start chromadb server**
 
-   go to backend directory
+   - Go to backend directory
    ```
    cd backend
    ```
-   create db folder for storing Chromadb files
+   
+   - Create db folder for storing Chromadb files
    ```
    mkdir db
    ```
-   Start Chromadb server:
+   
+   - Start Chromadb server:
    ```
    chroma run --path db --port 8001
    ```
@@ -97,15 +99,22 @@ or any other code editor
    ```
 
 8. **Frontend**
-   Open new terminal and go to frontend folder
+
+   - Open new terminal and go to frontend folder
    ```
    cd frontend
    ```
-   Run frontend.py
+   - Run frontend.py
    ```
    streamlit run frontend.py
    ```
    ![Frontend img](https://github.com/user-attachments/assets/5f3949c1-f663-4a99-8c69-df734cf19228)
+
+   - User Interface:
+   
+   ![Screenshot 2025-02-08 144642](https://github.com/user-attachments/assets/aaf7aa3c-401f-4779-87fa-826908f24224)
+
+
 
    
 
